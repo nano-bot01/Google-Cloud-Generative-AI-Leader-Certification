@@ -1,5 +1,5 @@
 # Google-Cloud-Generative-AI-Leader-Certification
-Google Cloud Generative AI Leader Certification Notes
+### Deployed link: [Google Cloud Generative AI Leader Certification Notes](https://nano-bot01.github.io/Google-Cloud-Generative-AI-Leader-Certification/)
 
 
 ## 🧠 The Five Layers of Generative AI Architecture
