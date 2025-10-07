@@ -128,7 +128,6 @@ The custom generative AI solution delivered significant, measurable improvements
 * ***Bottlenecks Eliminated***: Manufacturing bottlenecks were eliminated, improving overall flow.
 * ***Competitive Advantage***: 🏆 This faster time-to-market helped the company **respond quickly to customer demands** and release innovative products ahead of their competition.
 
-*For a practical example of how to customize Gen AI models, you can watch this video: [How Vertex AI makes it easy to customize gen AI models](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)* (Note: Please insert the correct video link).
 
 ---
 
